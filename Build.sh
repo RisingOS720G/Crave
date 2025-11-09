@@ -4,8 +4,7 @@
 rm -rf .repo/local_manifests/
 
 # ROM source repo
-repo init -u https://github.com/RisingOS720G/android -b sixteen --git-lfs
-
+repo init -u https://github.com/RisingOS-Revived/android -b sixteen --git-lfs
 
 
 
