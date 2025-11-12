@@ -37,9 +37,6 @@ git clone https://github.com/RisingOS720G/vendor_xiaomi_miuicamera-miatoll.git -
 # Set up build environment
 source build/envsetup.sh
 
-# CERT
-gk -f
-
 # Lunch
 riseup miatoll userdebug
 
